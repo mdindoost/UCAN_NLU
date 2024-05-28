@@ -1,0 +1,16 @@
+2024-05-28 16:44:34,537 - INFO - Lock 124263191513120 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/34ddbd64a4cd3f2d9d8a9120d3662d0bf91baead.lock
+2024-05-28 16:44:34,597 - INFO - Lock 124263191513120 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/34ddbd64a4cd3f2d9d8a9120d3662d0bf91baead.lock
+2024-05-28 16:44:34,701 - INFO - Lock 124261451984800 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5606f48548d99a9829d10a96cd364b816b02cd21.lock
+2024-05-28 16:44:34,796 - INFO - Lock 124261451984800 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5606f48548d99a9829d10a96cd364b816b02cd21.lock
+2024-05-28 16:44:34,837 - INFO - Lock 124261451982976 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/226b0752cac7789c48f0cb3ec53eda48b7be36cc.lock
+2024-05-28 16:44:34,887 - INFO - Lock 124261451982976 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/226b0752cac7789c48f0cb3ec53eda48b7be36cc.lock
+2024-05-28 16:44:35,031 - INFO - Lock 124261451983792 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/ad0bcbeb288f0d1373d88e0762e66357f55b8311.lock
+2024-05-28 16:44:35,200 - INFO - Lock 124261451983792 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/ad0bcbeb288f0d1373d88e0762e66357f55b8311.lock
+2024-05-28 16:44:35,396 - INFO - Lock 124261454502496 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/8db5e7ac5bfc9ec8b613b776009300fe3685d957.lock
+2024-05-28 16:44:35,454 - INFO - Lock 124261454502496 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/8db5e7ac5bfc9ec8b613b776009300fe3685d957.lock
+2024-05-28 16:44:35,690 - INFO - Lock 124261454503408 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5bde1d28afb363d0103324efeb5afc8b2b397fe5e04beabb9b1ef355255ade81.lock
+2024-05-28 16:44:49,733 - INFO - Lock 124261454503408 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5bde1d28afb363d0103324efeb5afc8b2b397fe5e04beabb9b1ef355255ade81.lock
+2024-05-28 16:44:49,958 - INFO - Using /tmp/tfhub_modules to cache modules.
+2024-05-28 16:44:54,885 - INFO - Fingerprint not found. Saved model loading will continue.
+2024-05-28 16:44:54,896 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-05-28 16:44:55,051 - INFO -  * Restarting with inotify reloader
