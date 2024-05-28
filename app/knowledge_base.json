@@ -2,11 +2,184 @@
     "faqs": [
         {
             "question": "What are my health benefits?",
-            "answer": "Your health benefits include medical, dental, and vision insurance."
+            "answer": "The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost."
         },
         {
             "question": "How do I file a grievance?",
-            "answer": "To file a grievance, you need to submit a formal complaint through the university's online portal."
+            "answer": "To file a grievance, attempt to resolve the issue informally with your immediate supervisor. If not resolved within ten working days, proceed to Step 1 by presenting a written grievance to the Department Chair within forty-five calendar days of the action."
+        },
+        {
+            "question": "What is the duration of the assistantship support for doctoral students?",
+            "answer": "Doctoral students may expect to receive NJIT-funded, full or partial assistantship support for up to six academic years, defined as twelve semesters and six summers. Funding beyond six academic years may be made on an as-available basis."
+        },
+        {
+            "question": "What happens if I switch academic advisors?",
+            "answer": "Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT."
+        },
+        {
+            "question": "What is the minimum stipend for Graduate Student Employees?",
+            "answer": "The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026."
+        },
+        {
+            "question": "How are appointments and reappointments handled?",
+            "answer": "Appointments and reappointments must include details such as appointment title, effective dates, duration, hiring unit, summary of required duties, salary, health benefits, and any costs of tuition or fees. Reappointment notifications must be given by June 1 for Fall and December 15 for Spring."
+        },
+        {
+            "question": "What are the vacation entitlements for Research Employees?",
+            "answer": "Research Employees are entitled to fifteen vacation leave days per fiscal year after 30 days from the date of hire. For payroll purposes, the time is accounted as one hundred and five hours per year."
+        },
+        {
+            "question": "What are the vacation entitlements for Graduate Student Employees?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year."
+        },
+        {
+            "question": "What are the parking fees for Graduate Student Employees?",
+            "answer": "Graduate Student Employees will be charged parking fees equal to 0.4% of their salary."
+        },
+        {
+            "question": "What support is available for professional development?",
+            "answer": "NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area."
+        },
+        {
+            "question": "What are the responsibilities and work hours for Teaching Assistants and Research Assistants?",
+            "answer": "Teaching Assistants and Research Assistants are required to work no more than an average of 18 hours per week on specifically assigned duties. Weekly fluctuations above and below the hours are expected, but no TA or RA will be instructed to work more total hours for the term of appointment than stipulated."
+        },
+        {
+            "question": "What is the process for grievance resolution?",
+            "answer": "The grievance process involves attempting to resolve the issue informally first, followed by formal steps if needed: Step 1 with the Department Chair, Step 2 with the Provost, and potentially mediation or arbitration if necessary."
+        },
+        {
+            "question": "What are the health benefits for Research Employees?",
+            "answer": "Research Employees are covered by the State Health Benefits Program, which includes amendments or revisions applicable to state employees. Employees continue paying health plan premiums during any leave, whether paid or unpaid."
+        },
+        {
+            "question": "What are the retroactive salary increases for Graduate Student Employees?",
+            "answer": "All retroactive salary increases are paid out by NJIT as follows: Postdocs’ and Graduate students’ new rates go into effect on February 16, 2024, and retroactive payments are made by March 1, 2024, for those still on payroll in another position at NJIT."
+        },
+        {
+            "question": "What happens during the University's closures?",
+            "answer": "TAs and RAs should not be required to perform work during the University's closures, including between Christmas Day and New Year's Day, and Thanksgiving Day and the day after, unless emergent circumstances require it."
+        },
+        {
+            "question": "What are my health benefits?",
+            "answer": "The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost."
+        },
+        {
+            "question": "How do I file a grievance?",
+            "answer": "To file a grievance, attempt to resolve the issue informally with your immediate supervisor. If not resolved within ten working days, proceed to Step 1 by presenting a written grievance to the Department Chair within forty-five calendar days of the action."
+        },
+        {
+            "question": "What is the duration of the assistantship support for doctoral students?",
+            "answer": "Doctoral students may receive NJIT-funded assistantship support for up to six academic years."
+        },
+        {
+            "question": "What happens if I switch academic advisors?",
+            "answer": "Continued funding is guaranteed if a GSRE member switches academic advisors during their enrollment at NJIT."
+        },
+        {
+            "question": "What is the minimum stipend for Graduate Student Employees?",
+            "answer": "The minimum stipend is $34,103.30 for 2022-2023, $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026."
+        },
+        {
+            "question": "How are appointments and reappointments handled?",
+            "answer": "Appointments and reappointments must include details such as appointment title, effective dates, duration, hiring unit, summary of duties, salary, health benefits, and any tuition or fees."
+        },
+        {
+            "question": "What are the vacation entitlements for Research Employees?",
+            "answer": "Research Employees are entitled to fifteen vacation days per fiscal year after 30 days from the date of hire."
+        },
+        {
+            "question": "What are the vacation entitlements for Graduate Student Employees?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year."
+        },
+        {
+            "question": "What are the parking fees for Graduate Student Employees?",
+            "answer": "Graduate Student Employees will be charged parking fees equal to 0.4% of their salary."
+        },
+        {
+            "question": "What support is available for professional development?",
+            "answer": "NJIT will provide a Professional Development Fund of $50,000 for each academic year for conferences, workshops, trainings, and research projects related to the GSRE member's research area."
+        },
+        {
+            "question": "What are the responsibilities and work hours for Teaching Assistants and Research Assistants?",
+            "answer": "TAs and RAs are required to work no more than an average of 18 hours per week on assigned duties."
+        },
+        {
+            "question": "What is the process for grievance resolution?",
+            "answer": "The grievance process involves attempting to resolve the issue informally first, followed by formal steps: Step 1 with the Department Chair, Step 2 with the Provost, and potentially mediation or arbitration if necessary."
+        },
+        {
+            "question": "What are the health benefits for Research Employees?",
+            "answer": "Research Employees are covered by the State Health Benefits Program and continue paying health plan premiums during any leave."
+        },
+        {
+            "question": "What are the retroactive salary increases for Graduate Student Employees?",
+            "answer": "Retroactive salary increases are paid out by NJIT, with new rates effective February 16, 2024, and retroactive payments by March 1, 2024."
+        },
+        {
+            "question": "What happens during the University's closures?",
+            "answer": "TAs and RAs should not be required to work during the University's closures, unless emergent circumstances require it."
+        },
+        {
+            "question": "How can I get reimbursement for travel expenses?",
+            "answer": "Graduate Student Employees shall be reimbursed for approved local travel expenses incurred in connection with their duties."
+        },
+        {
+            "question": "What are the housing policies for Graduate Students?",
+            "answer": "Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner."
+        },
+        {
+            "question": "What are the parking rules for Research Employees?",
+            "answer": "Research Employees' parking fees are 0.4% of their annual salary, deducted in 24 installments throughout the fiscal year."
+        },
+        {
+            "question": "What happens if my grant funding runs out?",
+            "answer": "Research Employees may be terminated if grant funding runs out, with at least 60 days' notice."
+        },
+        {
+            "question": "What is the probationary period for new Research Employees?",
+            "answer": "Newly hired Research Employees serve a three-month probationary period."
+        },
+        {
+            "question": "What is the eye care program for Research Employees?",
+            "answer": "The Eye Care Program provides $35 for regular glasses and $40 for bifocals, with coverage extended to eligible dependents."
+        },
+        {
+            "question": "What are the modified duties for Graduate Student Employees?",
+            "answer": "Graduate Student Employees with a serious health condition may request a modified duties schedule for up to one semester."
+        },
+        {
+            "question": "What is the grievance process?",
+            "answer": "Grievance process includes attempting informal resolution, followed by Steps 1 to 4: Department Chair, Provost, Mediation, and Arbitration."
+        },
+        {
+            "question": "What is the minimum salary for Research Employees?",
+            "answer": "Minimum salary for Research Employees is based on NIH NSRA approved stipend levels."
+        },
+        {
+            "question": "What are the statutory leaves available?",
+            "answer": "Leaves of absence are available for serious health conditions, family care, and under the New Jersey SAFE Act, among other applicable laws."
+        },
+        {
+            "question": "What is the duration of calendar year appointments?",
+            "answer": "Calendar year appointments for TAs and RAs are from July 1 to June 30, inclusive of one month's equivalent for vacation."
+        },
+        {
+            "question": "How are layoffs or reductions in force handled?",
+            "answer": "NJIT must notify UCAN and affected employees at least 60 days in advance for any layoff or reduction in force."
+        },
+        {
+            "question": "What are the responsibilities of UCAN representatives?",
+            "answer": "UCAN representatives can transact official business on NJIT property and have the right to use NJIT buildings for meetings, following NJIT procedures."
+        },
+        {
+            "question": "What is the process for reappointment notifications?",
+            "answer": "TAs and RAs are notified of their status for the coming academic year by June 1 for Fall and December 15 for Spring."
+        },
+        {
+            "question": "What are the stipends for Research Employees?",
+            "answer": "Stipends for Research Employees include $56,484 for Post-Docs, with variations for Research Scientists, Engineers, and Associates."
         }
+        
     ]
 }
