@@ -1,0 +1,12 @@
+{
+    "faqs": [
+        {
+            "question": "What are my health benefits?",
+            "answer": "Your health benefits include medical, dental, and vision insurance."
+        },
+        {
+            "question": "How do I file a grievance?",
+            "answer": "To file a grievance, you need to submit a formal complaint through the university's online portal."
+        }
+    ]
+}
