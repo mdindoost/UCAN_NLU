@@ -1,4 +1,4 @@
-In this project I tried to combine 5 different methods.
+In this project I tried to combine 5 different methods. right now it has only knwledge of NJIT UCAN MOA document. LOL
 
 1. SpaCy
 Overview:
