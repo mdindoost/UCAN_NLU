@@ -47,4 +47,8 @@ Keyword matching ensures that the key concepts from the user query are present i
 This helps in verifying that the response is contextually relevant.
 Role in Chatbot:
 
+<<<<<<< HEAD
 Keyword Verification: After identifying potential matches using the various models, keyword matching ensures that the selected answer contains the relevant keywords from the user query.
+=======
+Keyword Verification: After identifying potential matches using the various models, keyword matching ensures that the selected answer contains the relevant keywords from the user query.
+>>>>>>> 5e20581 (RoBERTa Integration)

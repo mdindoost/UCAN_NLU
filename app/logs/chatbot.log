@@ -14,3 +14,7 @@
 2024-05-28 16:44:54,885 - INFO - Fingerprint not found. Saved model loading will continue.
 2024-05-28 16:44:54,896 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 2024-05-28 16:44:55,051 - INFO -  * Restarting with inotify reloader
+2024-05-28 16:45:03,201 - INFO - Using /tmp/tfhub_modules to cache modules.
+2024-05-28 16:45:07,667 - INFO - Fingerprint not found. Saved model loading will continue.
+2024-05-28 16:45:07,679 - WARNING -  * Debugger is active!
+2024-05-28 16:45:07,809 - INFO -  * Debugger PIN: 307-495-714
