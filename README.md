@@ -1,5 +1,38 @@
 In this project I tried to combine 5 different methods. right now it has only knwledge of NJIT UCAN MOA document. LOL
 
+Setup Instructions
+Follow these steps to set up the project environment and install the necessary dependencies.
+
+Prerequisites
+Ensure you have the following installed on your system:
+
+Python 3.8 or higher
+Virtual environment (optional but recommended)
+Step-by-Step Guide
+1. Clone the Repository
+2. Create and Activate a Virtual Environment
+3. Install Dependencies
+pip install -r requirements.txt
+4. Install spaCy Language Model
+python -m spacy download en_core_web_lg or en_core_web_md
+
+5. Running the Application
+python3 main.py
+
+Troubleshooting
+If you encounter any issues during the setup, make sure to:
+
+Check if the virtual environment is activated.
+Ensure that all dependencies are installed correctly.
+Verify that the spacy model is downloaded and installed.
+
+Contact
+If you have any questions or need further assistance, feel free to contact us at [md@njit.edu].
+
+
+
+
+What I used:
 1. SpaCy
 Overview:
 

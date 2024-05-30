@@ -1,20 +1,377 @@
-2024-05-28 16:44:34,537 - INFO - Lock 124263191513120 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/34ddbd64a4cd3f2d9d8a9120d3662d0bf91baead.lock
-2024-05-28 16:44:34,597 - INFO - Lock 124263191513120 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/34ddbd64a4cd3f2d9d8a9120d3662d0bf91baead.lock
-2024-05-28 16:44:34,701 - INFO - Lock 124261451984800 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5606f48548d99a9829d10a96cd364b816b02cd21.lock
-2024-05-28 16:44:34,796 - INFO - Lock 124261451984800 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5606f48548d99a9829d10a96cd364b816b02cd21.lock
-2024-05-28 16:44:34,837 - INFO - Lock 124261451982976 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/226b0752cac7789c48f0cb3ec53eda48b7be36cc.lock
-2024-05-28 16:44:34,887 - INFO - Lock 124261451982976 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/226b0752cac7789c48f0cb3ec53eda48b7be36cc.lock
-2024-05-28 16:44:35,031 - INFO - Lock 124261451983792 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/ad0bcbeb288f0d1373d88e0762e66357f55b8311.lock
-2024-05-28 16:44:35,200 - INFO - Lock 124261451983792 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/ad0bcbeb288f0d1373d88e0762e66357f55b8311.lock
-2024-05-28 16:44:35,396 - INFO - Lock 124261454502496 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/8db5e7ac5bfc9ec8b613b776009300fe3685d957.lock
-2024-05-28 16:44:35,454 - INFO - Lock 124261454502496 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/8db5e7ac5bfc9ec8b613b776009300fe3685d957.lock
-2024-05-28 16:44:35,690 - INFO - Lock 124261454503408 acquired on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5bde1d28afb363d0103324efeb5afc8b2b397fe5e04beabb9b1ef355255ade81.lock
-2024-05-28 16:44:49,733 - INFO - Lock 124261454503408 released on /home/mohammad/.cache/huggingface/hub/.locks/models--roberta-base/5bde1d28afb363d0103324efeb5afc8b2b397fe5e04beabb9b1ef355255ade81.lock
-2024-05-28 16:44:49,958 - INFO - Using /tmp/tfhub_modules to cache modules.
-2024-05-28 16:44:54,885 - INFO - Fingerprint not found. Saved model loading will continue.
-2024-05-28 16:44:54,896 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-2024-05-28 16:44:55,051 - INFO -  * Restarting with inotify reloader
-2024-05-28 16:45:03,201 - INFO - Using /tmp/tfhub_modules to cache modules.
-2024-05-28 16:45:07,667 - INFO - Fingerprint not found. Saved model loading will continue.
-2024-05-28 16:45:07,679 - WARNING -  * Debugger is active!
-2024-05-28 16:45:07,809 - INFO -  * Debugger PIN: 307-495-714
+2024-05-29 20:37:31,639 - INFO - Fingerprint not found. Saved model loading will continue.
+2024-05-29 20:37:31,657 - WARNING -  * Debugger is active!
+2024-05-29 20:37:31,856 - INFO -  * Debugger PIN: 697-093-070
+2024-05-29 20:37:32,034 - INFO - Received question: How much is my monthly stipend?
+2024-05-29 20:38:09,113 - INFO - User input: How much is my monthly stipend?
+2024-05-29 20:38:09,113 - INFO - Keywords: {'monthly', 'stipend'}
+2024-05-29 20:38:09,113 - INFO - spaCy score: 1.0, match: The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026.
+2024-05-29 20:38:09,114 - INFO - BERT score: 1.0, match: The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026.
+2024-05-29 20:38:09,114 - INFO - RoBERTa score: 1.0000001192092896, match: The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026.
+2024-05-29 20:38:09,114 - INFO - ALBERT score: 1.0, match: The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026.
+2024-05-29 20:38:09,114 - INFO - USE score: 1.000000238418579, match: The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026.
+2024-05-29 20:38:09,114 - INFO - Fuzzy score: 1.0, match: The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026.
+2024-05-29 20:38:09,251 - INFO - Response: The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026.
+2024-05-29 20:38:09,252 - INFO - 127.0.0.1 - - [29/May/2024 20:38:09] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:38:09,287 - INFO - Received question: When I will get my first stipend payment?
+2024-05-29 20:38:42,266 - INFO - User input: When I will get my first stipend payment?
+2024-05-29 20:38:42,266 - INFO - Keywords: {'payment', 'stipend'}
+2024-05-29 20:38:42,266 - INFO - spaCy score: 1.0, match: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:38:42,267 - INFO - BERT score: 0.9999997019767761, match: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:38:42,267 - INFO - RoBERTa score: 1.0000001192092896, match: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:38:42,267 - INFO - ALBERT score: 0.9999998807907104, match: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:38:42,267 - INFO - USE score: 1.0, match: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:38:42,267 - INFO - Fuzzy score: 1.0, match: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:38:42,454 - INFO - Response: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:38:42,455 - INFO - 127.0.0.1 - - [29/May/2024 20:38:42] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:38:42,460 - INFO - Received question: Is there raise in stipend every year?
+2024-05-29 20:39:14,933 - INFO - User input: Is there raise in stipend every year?
+2024-05-29 20:39:14,934 - INFO - Keywords: {'raise', 'year', 'stipend'}
+2024-05-29 20:39:14,934 - INFO - spaCy score: 1.0, match: During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation.
+2024-05-29 20:39:14,934 - INFO - BERT score: 1.0, match: During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation.
+2024-05-29 20:39:14,934 - INFO - RoBERTa score: 0.9999998807907104, match: During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation.
+2024-05-29 20:39:14,934 - INFO - ALBERT score: 1.000000238418579, match: During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation.
+2024-05-29 20:39:14,935 - INFO - USE score: 0.8999742865562439, match: During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation.
+2024-05-29 20:39:14,935 - INFO - Fuzzy score: 0.9736842105263158, match: During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation.
+2024-05-29 20:39:15,152 - INFO - Response: During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation.
+2024-05-29 20:39:15,153 - INFO - 127.0.0.1 - - [29/May/2024 20:39:15] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:39:15,162 - INFO - Received question: What health insurance do I get?
+2024-05-29 20:39:47,358 - INFO - User input: What health insurance do I get?
+2024-05-29 20:39:47,359 - INFO - Keywords: {'health', 'insurance'}
+2024-05-29 20:39:47,359 - INFO - spaCy score: 0.9100451147322194, match: The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost.
+2024-05-29 20:39:47,359 - INFO - BERT score: 0.9795512557029724, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:39:47,359 - INFO - RoBERTa score: 0.9996770620346069, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:39:47,359 - INFO - ALBERT score: 0.9656901359558105, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:39:47,360 - INFO - USE score: 0.7050231695175171, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:39:47,360 - INFO - Fuzzy score: 0.6075949367088608, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:39:47,371 - INFO - Response: The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost.
+2024-05-29 20:39:47,372 - INFO - 127.0.0.1 - - [29/May/2024 20:39:47] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:39:47,378 - INFO - Received question: Can my family get health insurance too?
+2024-05-29 20:40:20,220 - INFO - User input: Can my family get health insurance too?
+2024-05-29 20:40:20,220 - INFO - Keywords: {'health', 'insurance', 'family'}
+2024-05-29 20:40:20,220 - INFO - spaCy score: 0.9686264939980824, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:40:20,221 - INFO - BERT score: 0.9887967109680176, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:40:20,221 - INFO - RoBERTa score: 0.9998360276222229, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:40:20,221 - INFO - ALBERT score: 0.9879498481750488, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:40:20,221 - INFO - USE score: 0.9029632210731506, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:40:20,222 - INFO - Fuzzy score: 0.8863636363636364, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:40:20,379 - INFO - Response: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:40:20,380 - INFO - 127.0.0.1 - - [29/May/2024 20:40:20] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:40:20,386 - INFO - Received question: How I use the health insurance at doctor?
+2024-05-29 20:40:53,270 - INFO - User input: How I use the health insurance at doctor?
+2024-05-29 20:40:53,270 - INFO - Keywords: {'doctor', 'health', 'insurance', 'use'}
+2024-05-29 20:40:53,270 - INFO - spaCy score: 1.0, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:40:53,271 - INFO - BERT score: 0.9999999403953552, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:40:53,271 - INFO - RoBERTa score: 0.9999999403953552, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:40:53,271 - INFO - ALBERT score: 1.0, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:40:53,271 - INFO - USE score: 0.9090989828109741, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:40:53,271 - INFO - Fuzzy score: 0.9213483146067416, match: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:40:53,353 - INFO - Response: Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911.
+2024-05-29 20:40:53,353 - INFO - 127.0.0.1 - - [29/May/2024 20:40:53] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:40:53,360 - INFO - Received question: How many vacation days I get?
+2024-05-29 20:41:25,501 - INFO - User input: How many vacation days I get?
+2024-05-29 20:41:25,501 - INFO - Keywords: {'vacation', 'day'}
+2024-05-29 20:41:25,501 - INFO - spaCy score: 1.0, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:25,501 - INFO - BERT score: 0.9999998211860657, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:25,502 - INFO - RoBERTa score: 1.0, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:25,502 - INFO - ALBERT score: 1.0000001192092896, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:25,502 - INFO - USE score: 0.9999998211860657, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:25,502 - INFO - Fuzzy score: 1.0, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:25,592 - INFO - Response: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:25,593 - INFO - 127.0.0.1 - - [29/May/2024 20:41:25] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:41:25,601 - INFO - Received question: Can I take vacation in summer?
+2024-05-29 20:41:58,414 - INFO - User input: Can I take vacation in summer?
+2024-05-29 20:41:58,415 - INFO - Keywords: {'vacation', 'summer'}
+2024-05-29 20:41:58,415 - INFO - spaCy score: 0.7179065458696159, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:58,415 - INFO - BERT score: 0.9619641900062561, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:58,415 - INFO - RoBERTa score: 0.9996629953384399, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:58,416 - INFO - ALBERT score: 0.9777611494064331, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:58,416 - INFO - USE score: 0.5471501350402832, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:41:58,416 - INFO - Fuzzy score: 0.5423728813559322, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:58,524 - INFO - Response: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:41:58,524 - INFO - 127.0.0.1 - - [29/May/2024 20:41:58] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:41:58,531 - INFO - Received question: Do I need to ask professor before taking vacation?
+2024-05-29 20:42:30,732 - INFO - User input: Do I need to ask professor before taking vacation?
+2024-05-29 20:42:30,733 - INFO - Keywords: {'vacation', 'need', 'take', 'ask', 'professor'}
+2024-05-29 20:42:30,733 - INFO - spaCy score: 1.0, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:42:30,733 - INFO - BERT score: 1.0000001192092896, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:42:30,734 - INFO - RoBERTa score: 1.0000001192092896, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:42:30,734 - INFO - ALBERT score: 1.000000238418579, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:42:30,734 - INFO - USE score: 1.0000003576278687, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:42:30,735 - INFO - Fuzzy score: 1.0, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:42:30,850 - INFO - Response: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:42:30,851 - INFO - 127.0.0.1 - - [29/May/2024 20:42:30] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:42:30,857 - INFO - Received question: How many hours I need to work every week?
+2024-05-29 20:43:04,045 - INFO - User input: How many hours I need to work every week?
+2024-05-29 20:43:04,046 - INFO - Keywords: {'need', 'week', 'work', 'hour'}
+2024-05-29 20:43:04,046 - INFO - spaCy score: 0.8934434617972924, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:04,046 - INFO - BERT score: 0.9871277809143066, match: As a full-time TA or RA, you are required to work no more than an average of eighteen (18) hours per week on specifically assigned duties related to your appointment. Weekly workload may fluctuate, but the average should not exceed 18 hours.
+2024-05-29 20:43:04,046 - INFO - RoBERTa score: 0.9988994598388672, match: Yes, weekly fluctuations above and below the 18-hour average are expected, but no TA or RA will be instructed to work more total hours for the term of appointment than stipulated.
+2024-05-29 20:43:04,047 - INFO - ALBERT score: 0.9505331516265869, match: As a full-time TA or RA, you are required to work no more than an average of eighteen (18) hours per week on specifically assigned duties related to your appointment. Weekly workload may fluctuate, but the average should not exceed 18 hours.
+2024-05-29 20:43:04,047 - INFO - USE score: 0.7532526850700378, match: As a full-time TA or RA, you are required to work no more than an average of eighteen (18) hours per week on specifically assigned duties related to your appointment. Weekly workload may fluctuate, but the average should not exceed 18 hours.
+2024-05-29 20:43:04,047 - INFO - Fuzzy score: 0.82, match: As a full-time TA or RA, you are required to work no more than an average of eighteen (18) hours per week on specifically assigned duties related to your appointment. Weekly workload may fluctuate, but the average should not exceed 18 hours.
+2024-05-29 20:43:04,155 - INFO - Response: Yes, weekly fluctuations above and below the 18-hour average are expected, but no TA or RA will be instructed to work more total hours for the term of appointment than stipulated.
+2024-05-29 20:43:04,156 - INFO - 127.0.0.1 - - [29/May/2024 20:43:04] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:43:04,162 - INFO - Received question: What happens if I work more hours?
+2024-05-29 20:43:36,817 - INFO - User input: What happens if I work more hours?
+2024-05-29 20:43:36,817 - INFO - Keywords: {'happen', 'work', 'hour'}
+2024-05-29 20:43:36,817 - INFO - spaCy score: 1.0, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:36,817 - INFO - BERT score: 0.9999998807907104, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:36,817 - INFO - RoBERTa score: 1.0, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:36,817 - INFO - ALBERT score: 1.0, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:36,817 - INFO - USE score: 1.0, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:36,818 - INFO - Fuzzy score: 1.0, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:36,905 - INFO - Response: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:43:36,905 - INFO - 127.0.0.1 - - [29/May/2024 20:43:36] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:43:36,911 - INFO - Received question: Can I choose when to work my hours?
+2024-05-29 20:44:09,222 - INFO - User input: Can I choose when to work my hours?
+2024-05-29 20:44:09,223 - INFO - Keywords: {'work', 'choose', 'hour'}
+2024-05-29 20:44:09,223 - INFO - spaCy score: 1.0, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:44:09,223 - INFO - BERT score: 0.9999998807907104, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:44:09,224 - INFO - RoBERTa score: 0.9999997615814209, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:44:09,224 - INFO - ALBERT score: 0.9999999403953552, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:44:09,224 - INFO - USE score: 1.000000238418579, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:44:09,224 - INFO - Fuzzy score: 1.0, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:44:09,369 - INFO - Response: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:44:09,370 - INFO - 127.0.0.1 - - [29/May/2024 20:44:09] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:44:09,376 - INFO - Received question: What I have to do as teaching assistant?
+2024-05-29 20:44:41,763 - INFO - User input: What I have to do as teaching assistant?
+2024-05-29 20:44:41,764 - INFO - Keywords: {'assistant', 'teach'}
+2024-05-29 20:44:41,764 - INFO - spaCy score: 0.8828821979953818, match: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:44:41,764 - INFO - BERT score: 0.9528424143791199, match: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:44:41,764 - INFO - RoBERTa score: 0.9998371601104736, match: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:44:41,765 - INFO - ALBERT score: 0.9813559055328369, match: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:44:41,765 - INFO - USE score: 0.9088228940963745, match: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:44:41,765 - INFO - Fuzzy score: 0.9411764705882353, match: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:44:41,843 - INFO - Response: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:44:41,844 - INFO - 127.0.0.1 - - [29/May/2024 20:44:41] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:44:41,850 - INFO - Received question: Can I change my job duties?
+2024-05-29 20:45:15,763 - INFO - User input: Can I change my job duties?
+2024-05-29 20:45:15,764 - INFO - Keywords: {'job', 'duty', 'change'}
+2024-05-29 20:45:15,764 - INFO - spaCy score: 1.0, match: If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor.
+2024-05-29 20:45:15,764 - INFO - BERT score: 0.9999998807907104, match: If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor.
+2024-05-29 20:45:15,764 - INFO - RoBERTa score: 0.9999998807907104, match: If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor.
+2024-05-29 20:45:15,765 - INFO - ALBERT score: 1.000000238418579, match: If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor.
+2024-05-29 20:45:15,765 - INFO - USE score: 1.000000238418579, match: If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor.
+2024-05-29 20:45:15,765 - INFO - Fuzzy score: 1.0, match: If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor.
+2024-05-29 20:45:15,894 - INFO - Response: If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor.
+2024-05-29 20:45:15,895 - INFO - 127.0.0.1 - - [29/May/2024 20:45:15] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:45:15,906 - INFO - Received question: What if I don’t understand my job duties?
+2024-05-29 20:45:50,900 - INFO - User input: What if I don’t understand my job duties?
+2024-05-29 20:45:50,900 - INFO - Keywords: {'job', 'duty', 'understand'}
+2024-05-29 20:45:50,901 - INFO - spaCy score: 1.0, match: If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities.
+2024-05-29 20:45:50,901 - INFO - BERT score: 1.0000001192092896, match: If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities.
+2024-05-29 20:45:50,901 - INFO - RoBERTa score: 0.9999998211860657, match: If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities.
+2024-05-29 20:45:50,901 - INFO - ALBERT score: 1.0, match: If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities.
+2024-05-29 20:45:50,902 - INFO - USE score: 1.000000238418579, match: If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities.
+2024-05-29 20:45:50,902 - INFO - Fuzzy score: 0.975609756097561, match: If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities.
+2024-05-29 20:45:50,916 - INFO - Response: If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities.
+2024-05-29 20:45:50,916 - INFO - 127.0.0.1 - - [29/May/2024 20:45:50] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:45:50,923 - INFO - Received question: Can I live on campus?
+2024-05-29 20:46:26,155 - INFO - User input: Can I live on campus?
+2024-05-29 20:46:26,155 - INFO - Keywords: {'live', 'campus'}
+2024-05-29 20:46:26,155 - INFO - spaCy score: 1.0, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:26,156 - INFO - BERT score: 0.9999998807907104, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:26,156 - INFO - RoBERTa score: 0.9999997615814209, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:26,156 - INFO - ALBERT score: 1.0000001192092896, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:26,156 - INFO - USE score: 1.0000001192092896, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:26,156 - INFO - Fuzzy score: 1.0, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:26,256 - INFO - Response: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:26,256 - INFO - 127.0.0.1 - - [29/May/2024 20:46:26] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:46:26,262 - INFO - Received question: How much is rent for on-campus housing?
+2024-05-29 20:46:58,884 - INFO - User input: How much is rent for on-campus housing?
+2024-05-29 20:46:58,884 - INFO - Keywords: {'campus', 'rent', 'housing'}
+2024-05-29 20:46:58,884 - INFO - spaCy score: 0.746581964904994, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:46:58,884 - INFO - BERT score: 0.9122869372367859, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:46:58,888 - INFO - RoBERTa score: 0.9995498657226562, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:58,888 - INFO - ALBERT score: 0.9375486969947815, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:46:58,888 - INFO - USE score: 0.5467497706413269, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:46:58,888 - INFO - Fuzzy score: 0.5263157894736842, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:46:58,975 - INFO - Response: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:46:58,976 - INFO - 127.0.0.1 - - [29/May/2024 20:46:58] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:46:58,982 - INFO - Received question: Can my family stay with me in campus housing?
+2024-05-29 20:47:31,346 - INFO - User input: Can my family stay with me in campus housing?
+2024-05-29 20:47:31,346 - INFO - Keywords: {'campus', 'family', 'stay', 'housing'}
+2024-05-29 20:47:31,346 - INFO - spaCy score: 0.8001357398033494, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:47:31,347 - INFO - BERT score: 0.9343854188919067, match: Graduate Student Employees can park in designated university parking areas as specified by the university.
+2024-05-29 20:47:31,347 - INFO - RoBERTa score: 0.9992569088935852, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:47:31,347 - INFO - ALBERT score: 0.9549112915992737, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:47:31,347 - INFO - USE score: 0.7181752920150757, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:47:31,347 - INFO - Fuzzy score: 0.5151515151515151, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:47:31,428 - INFO - Response: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:47:31,429 - INFO - 127.0.0.1 - - [29/May/2024 20:47:31] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:47:31,435 - INFO - Received question: Do I need to pay tuition?
+2024-05-29 20:48:03,814 - INFO - User input: Do I need to pay tuition?
+2024-05-29 20:48:03,814 - INFO - Keywords: {'tuition', 'need', 'pay'}
+2024-05-29 20:48:03,814 - INFO - spaCy score: 0.8460230558924943, match: Employees can only opt-out if they are not part of the bargaining unit.
+2024-05-29 20:48:03,814 - INFO - BERT score: 0.9407042264938354, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:48:03,815 - INFO - RoBERTa score: 0.9989824295043945, match: The Professional Development Fund can be used for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:48:03,815 - INFO - ALBERT score: 0.9207943677902222, match: Grievance process includes attempting informal resolution, followed by Steps 1 to 4: Department Chair, Provost, Mediation, and Arbitration.
+2024-05-29 20:48:03,815 - INFO - USE score: 0.5987338423728943, match: No, tuition remission does not cover fees. Graduate Student Employees are responsible for paying any associated fees.
+2024-05-29 20:48:03,815 - INFO - Fuzzy score: 0.5866666666666667, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:48:03,895 - INFO - Response: The Professional Development Fund can be used for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:48:03,895 - INFO - 127.0.0.1 - - [29/May/2024 20:48:03] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:48:03,901 - INFO - Received question: Does my stipend cover all fees?
+2024-05-29 20:48:36,761 - INFO - User input: Does my stipend cover all fees?
+2024-05-29 20:48:36,761 - INFO - Keywords: {'cover', 'fee', 'stipend'}
+2024-05-29 20:48:36,761 - INFO - spaCy score: 0.9087006080116642, match: No, tuition remission does not cover fees. Graduate Student Employees are responsible for paying any associated fees.
+2024-05-29 20:48:36,761 - INFO - BERT score: 0.9608656167984009, match: No, tuition remission does not cover fees. Graduate Student Employees are responsible for paying any associated fees.
+2024-05-29 20:48:36,761 - INFO - RoBERTa score: 0.9996841549873352, match: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:48:36,761 - INFO - ALBERT score: 0.9466428160667419, match: Employees should report work-related injuries to their supervisor immediately and seek medical attention if necessary.
+2024-05-29 20:48:36,762 - INFO - USE score: 0.6600371599197388, match: No, tuition remission does not cover fees. Graduate Student Employees are responsible for paying any associated fees.
+2024-05-29 20:48:36,762 - INFO - Fuzzy score: 0.6461538461538462, match: No, tuition remission does not cover fees. Graduate Student Employees are responsible for paying any associated fees.
+2024-05-29 20:48:36,837 - INFO - Response: After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays.
+2024-05-29 20:48:36,838 - INFO - 127.0.0.1 - - [29/May/2024 20:48:36] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:48:36,845 - INFO - Received question: Are there any hidden costs I should know?
+2024-05-29 20:49:10,179 - INFO - User input: Are there any hidden costs I should know?
+2024-05-29 20:49:10,179 - INFO - Keywords: {'cost', 'know', 'hidden'}
+2024-05-29 20:49:10,180 - INFO - spaCy score: 0.6194673381240843, match: Graduate Student Employees shall be reimbursed for approved local travel expenses incurred in connection with their duties.
+2024-05-29 20:49:10,180 - INFO - BERT score: 0.9639489650726318, match: As a full-time TA or RA, you are required to work no more than an average of eighteen (18) hours per week on specifically assigned duties related to your appointment. Weekly workload may fluctuate, but the average should not exceed 18 hours.
+2024-05-29 20:49:10,180 - INFO - RoBERTa score: 0.9985792636871338, match: The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost.
+2024-05-29 20:49:10,180 - INFO - ALBERT score: 0.9471017122268677, match: Research Employees may be terminated if grant funding runs out, with at least 60 days' notice.
+2024-05-29 20:49:10,180 - INFO - USE score: 0.32569316029548645, match: Remote work provisions are not specifically addressed in the Agreement.
+2024-05-29 20:49:10,180 - INFO - Fuzzy score: 0.4742268041237113, match: Yes, the university provides health and safety training programs to ensure a safe work environment.
+2024-05-29 20:49:10,254 - INFO - Response: The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost.
+2024-05-29 20:49:10,255 - INFO - 127.0.0.1 - - [29/May/2024 20:49:10] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:49:10,261 - INFO - Received question: How I choose my academic advisor?
+2024-05-29 20:49:43,814 - INFO - User input: How I choose my academic advisor?
+2024-05-29 20:49:43,814 - INFO - Keywords: {'advisor', 'choose', 'academic'}
+2024-05-29 20:49:43,815 - INFO - spaCy score: 0.8394186476555437, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:49:43,815 - INFO - BERT score: 0.93330979347229, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:49:43,815 - INFO - RoBERTa score: 0.9995511770248413, match: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:49:43,815 - INFO - ALBERT score: 0.9449889063835144, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:49:43,816 - INFO - USE score: 0.5885761976242065, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:49:43,816 - INFO - Fuzzy score: 0.631578947368421, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:49:43,895 - INFO - Response: We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities.
+2024-05-29 20:49:43,896 - INFO - 127.0.0.1 - - [29/May/2024 20:49:43] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:49:43,904 - INFO - Received question: What happens if I change my academic advisor?
+2024-05-29 20:50:17,441 - INFO - User input: What happens if I change my academic advisor?
+2024-05-29 20:50:17,441 - INFO - Keywords: {'academic', 'happen', 'advisor', 'change'}
+2024-05-29 20:50:17,441 - INFO - spaCy score: 0.9246338357875227, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:17,442 - INFO - BERT score: 0.9579623937606812, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT. Funding received during this time shall not be counted towards the above time constraints.
+2024-05-29 20:50:17,442 - INFO - RoBERTa score: 0.9996302127838135, match: Continued funding is guaranteed if a GSRE member switches academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:17,442 - INFO - ALBERT score: 0.9906476736068726, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:17,442 - INFO - USE score: 0.8519599437713623, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:17,443 - INFO - Fuzzy score: 0.8636363636363636, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:17,547 - INFO - Response: Continued funding is guaranteed if a GSRE member switches academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:17,548 - INFO - 127.0.0.1 - - [29/May/2024 20:50:17] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:50:17,558 - INFO - Received question: Can I have more than one advisor?
+2024-05-29 20:50:50,542 - INFO - User input: Can I have more than one advisor?
+2024-05-29 20:50:50,543 - INFO - Keywords: {'advisor'}
+2024-05-29 20:50:50,543 - INFO - spaCy score: 0.6739348072580327, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT. Funding received during this time shall not be counted towards the above time constraints.
+2024-05-29 20:50:50,543 - INFO - BERT score: 0.9673152565956116, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:50,543 - INFO - RoBERTa score: 0.999433696269989, match: The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost.
+2024-05-29 20:50:50,543 - INFO - ALBERT score: 0.0, match: None
+2024-05-29 20:50:50,544 - INFO - USE score: 0.48798155784606934, match: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:50,544 - INFO - Fuzzy score: 0.5555555555555556, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:50:50,551 - INFO - Response: Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT.
+2024-05-29 20:50:50,552 - INFO - 127.0.0.1 - - [29/May/2024 20:50:50] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:50:50,558 - INFO - Received question: Can I get money back for travel to conferences?
+2024-05-29 20:51:24,151 - INFO - User input: Can I get money back for travel to conferences?
+2024-05-29 20:51:24,151 - INFO - Keywords: {'conference', 'money', 'travel'}
+2024-05-29 20:51:24,151 - INFO - spaCy score: 0.8202531806606463, match: Graduate Student Employees shall be reimbursed for approved local travel expenses incurred in connection with their duties.
+2024-05-29 20:51:24,152 - INFO - BERT score: 0.9263159036636353, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:51:24,152 - INFO - RoBERTa score: 0.9991094470024109, match: Research Employees are covered by the State Health Benefits Program, which includes amendments or revisions applicable to state employees. Employees continue paying health plan premiums during any leave, whether paid or unpaid.
+2024-05-29 20:51:24,152 - INFO - ALBERT score: 0.9558948874473572, match: The department will assign and inform you of your responsibilities as a TA.
+2024-05-29 20:51:24,152 - INFO - USE score: 0.8335645198822021, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:51:24,152 - INFO - Fuzzy score: 0.8181818181818182, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:51:24,252 - INFO - Response: Research Employees are covered by the State Health Benefits Program, which includes amendments or revisions applicable to state employees. Employees continue paying health plan premiums during any leave, whether paid or unpaid.
+2024-05-29 20:51:24,253 - INFO - 127.0.0.1 - - [29/May/2024 20:51:24] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:51:24,259 - INFO - Received question: Is there bus pass for students?
+2024-05-29 20:51:56,744 - INFO - User input: Is there bus pass for students?
+2024-05-29 20:51:56,745 - INFO - Keywords: {'pass', 'bus', 'student'}
+2024-05-29 20:51:56,746 - INFO - spaCy score: 0.5926831923499868, match: Graduate Student Employees can park in designated university parking areas as specified by the university.
+2024-05-29 20:51:56,746 - INFO - BERT score: 0.8959770202636719, match: Graduate Student Employees can park in designated university parking areas as specified by the university.
+2024-05-29 20:51:56,746 - INFO - RoBERTa score: 0.9989898800849915, match: The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost.
+2024-05-29 20:51:56,747 - INFO - ALBERT score: 0.9565605521202087, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:51:56,747 - INFO - USE score: 0.4279157221317291, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:51:56,747 - INFO - Fuzzy score: 0.5783132530120482, match: Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner.
+2024-05-29 20:51:56,813 - INFO - Response: The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost.
+2024-05-29 20:51:56,814 - INFO - 127.0.0.1 - - [29/May/2024 20:51:56] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:51:56,825 - INFO - Received question: Where can I park my car on campus?
+2024-05-29 20:52:29,309 - INFO - User input: Where can I park my car on campus?
+2024-05-29 20:52:29,309 - INFO - Keywords: {'park', 'car', 'campus'}
+2024-05-29 20:52:29,310 - INFO - spaCy score: 0.5984448763060721, match: Graduate Student Employees can park in designated university parking areas as specified by the university.
+2024-05-29 20:52:29,310 - INFO - BERT score: 0.9120657444000244, match: Yes, the union can access university facilities for meetings with prior approval from the university.
+2024-05-29 20:52:29,310 - INFO - RoBERTa score: 0.9993923306465149, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:52:29,310 - INFO - ALBERT score: 0.9442790150642395, match: Yes, the union can access university facilities for meetings with prior approval from the university.
+2024-05-29 20:52:29,310 - INFO - USE score: 0.5988828539848328, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:52:29,311 - INFO - Fuzzy score: 0.6181818181818182, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:52:29,389 - INFO - Response: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:52:29,390 - INFO - 127.0.0.1 - - [29/May/2024 20:52:29] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:52:29,396 - INFO - Received question: Can I get money for going to conferences?
+2024-05-29 20:53:01,665 - INFO - User input: Can I get money for going to conferences?
+2024-05-29 20:53:01,665 - INFO - Keywords: {'conference', 'money', 'go'}
+2024-05-29 20:53:01,666 - INFO - spaCy score: 1.0, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:01,666 - INFO - BERT score: 0.9999998807907104, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:01,666 - INFO - RoBERTa score: 1.000000238418579, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:01,667 - INFO - ALBERT score: 1.0, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:01,667 - INFO - USE score: 0.9999998807907104, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:01,667 - INFO - Fuzzy score: 1.0, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:01,795 - INFO - Response: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:01,796 - INFO - 127.0.0.1 - - [29/May/2024 20:53:01] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:53:01,802 - INFO - Received question: What workshops or training can I do?
+2024-05-29 20:53:34,340 - INFO - User input: What workshops or training can I do?
+2024-05-29 20:53:34,340 - INFO - Keywords: {'training', 'workshop'}
+2024-05-29 20:53:34,341 - INFO - spaCy score: 0.7822922439279228, match: Teaching Assistants and Research Assistants are required to work no more than an average of 18 hours per week on specifically assigned duties. Weekly fluctuations above and below the hours are expected, but no TA or RA will be instructed to work more total hours for the term of appointment than stipulated.
+2024-05-29 20:53:34,341 - INFO - BERT score: 0.9348100423812866, match: The grievance process involves attempting to resolve the issue informally first, followed by formal steps: Step 1 with the Department Chair, Step 2 with the Provost, and potentially mediation or arbitration if necessary.
+2024-05-29 20:53:34,341 - INFO - RoBERTa score: 0.9995085000991821, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members.
+2024-05-29 20:53:34,341 - INFO - ALBERT score: 0.9427450895309448, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:53:34,341 - INFO - USE score: 0.38940051198005676, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:34,342 - INFO - Fuzzy score: 0.5526315789473685, match: Forms of discipline include warnings, reprimands, suspensions, demotions, and termination.
+2024-05-29 20:53:34,507 - INFO - Response: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:53:34,508 - INFO - 127.0.0.1 - - [29/May/2024 20:53:34] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:53:34,514 - INFO - Received question: Who I talk to about professional development funds?
+2024-05-29 20:54:06,278 - INFO - User input: Who I talk to about professional development funds?
+2024-05-29 20:54:06,279 - INFO - Keywords: {'talk', 'professional', 'fund', 'development'}
+2024-05-29 20:54:06,279 - INFO - spaCy score: 0.9246483447294398, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members.
+2024-05-29 20:54:06,280 - INFO - BERT score: 0.9297293424606323, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area.
+2024-05-29 20:54:06,280 - INFO - RoBERTa score: 0.9997857809066772, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members.
+2024-05-29 20:54:06,280 - INFO - ALBERT score: 0.9089984893798828, match: Research Employees are entitled to fifteen vacation leave days per fiscal year after 30 days from the date of hire. For payroll purposes, the time is accounted as one hundred and five hours per year.
+2024-05-29 20:54:06,280 - INFO - USE score: 0.6746964454650879, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members.
+2024-05-29 20:54:06,281 - INFO - Fuzzy score: 0.7956989247311828, match: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members.
+2024-05-29 20:54:06,366 - INFO - Response: NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members.
+2024-05-29 20:54:06,366 - INFO - 127.0.0.1 - - [29/May/2024 20:54:06] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:54:06,372 - INFO - Received question: How I complain if I have problem?
+2024-05-29 20:54:39,924 - INFO - User input: How I complain if I have problem?
+2024-05-29 20:54:39,924 - INFO - Keywords: {'problem', 'complain'}
+2024-05-29 20:54:39,925 - INFO - spaCy score: 0.7206524299261249, match: If not resolved informally, the grievance can be presented in writing to the Department Chair.
+2024-05-29 20:54:39,925 - INFO - BERT score: 0.9195891618728638, match: The appointment letter is advisory and cannot be the basis for a grievance, but it can be used as evidence in a grievance based on an independent claim.
+2024-05-29 20:54:39,925 - INFO - RoBERTa score: 0.9990043044090271, match: Amendments must be in writing and signed by both parties.
+2024-05-29 20:54:39,925 - INFO - ALBERT score: 0.9208061695098877, match: Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year.
+2024-05-29 20:54:39,926 - INFO - USE score: 0.5926991105079651, match: To file a grievance, attempt to resolve the issue informally with your immediate supervisor. If not resolved within ten working days, proceed to Step 1 by presenting a written grievance to the Department Chair within forty-five calendar days of the action.
+2024-05-29 20:54:39,926 - INFO - Fuzzy score: 0.5084745762711864, match: Sick leave is accrued at the rate of one day per month of employment.
+2024-05-29 20:54:39,995 - INFO - Response: Amendments must be in writing and signed by both parties.
+2024-05-29 20:54:39,996 - INFO - 127.0.0.1 - - [29/May/2024 20:54:39] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:54:40,002 - INFO - Received question: Who I talk to if my professor is unfair?
+2024-05-29 20:55:14,496 - INFO - User input: Who I talk to if my professor is unfair?
+2024-05-29 20:55:14,496 - INFO - Keywords: {'talk', 'unfair', 'professor'}
+2024-05-29 20:55:14,497 - INFO - spaCy score: 0.6225865175824651, match: A Research Employee may file a grievance if they believe the discipline imposed is unfair.
+2024-05-29 20:55:14,497 - INFO - BERT score: 0.9631838798522949, match: As a full-time TA or RA, you are required to work no more than an average of eighteen (18) hours per week on specifically assigned duties related to your appointment. Weekly workload may fluctuate, but the average should not exceed 18 hours.
+2024-05-29 20:55:14,497 - INFO - RoBERTa score: 0.9982301592826843, match: A Research Employee may file a grievance if they believe the discipline imposed is unfair.
+2024-05-29 20:55:14,497 - INFO - ALBERT score: 0.9592487812042236, match: During academic year you are not allowed to work more than 18 hours.
+2024-05-29 20:55:14,497 - INFO - USE score: 0.4216587245464325, match: A Research Employee may file a grievance if they believe the discipline imposed is unfair.
+2024-05-29 20:55:14,498 - INFO - Fuzzy score: 0.5111111111111111, match: Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow.
+2024-05-29 20:55:14,564 - INFO - Response: A Research Employee may file a grievance if they believe the discipline imposed is unfair.
+2024-05-29 20:55:14,565 - INFO - 127.0.0.1 - - [29/May/2024 20:55:14] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:55:14,571 - INFO - Received question: Is there office that help with student problems?
+2024-05-29 20:55:46,349 - INFO - User input: Is there office that help with student problems?
+2024-05-29 20:55:46,349 - INFO - Keywords: {'help', 'office', 'problem', 'student'}
+2024-05-29 20:55:46,349 - INFO - spaCy score: 0.8138289353854836, match: Graduate Student Employees who are required to work on holidays shall be compensated at a rate of one and one-half times their normal hourly rate.
+2024-05-29 20:55:46,349 - INFO - BERT score: 0.9066832065582275, match: Appointment and reappointment letters include details such as appointment title, effective dates, duration, hiring unit, summary of required duties, salary, health benefits, and any costs of tuition or fees.
+2024-05-29 20:55:46,350 - INFO - RoBERTa score: 0.9987376928329468, match: The Eye Care Program provides $35 for regular glasses and $40 for bifocals, with coverage extended to eligible dependents.
+2024-05-29 20:55:46,350 - INFO - ALBERT score: 0.9524182081222534, match: Yes, NJIT has set aside $150,000 to help cover the cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source.
+2024-05-29 20:55:46,350 - INFO - USE score: 0.45011311769485474, match: Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing.
+2024-05-29 20:55:46,350 - INFO - Fuzzy score: 0.5111111111111111, match: Graduate Student Employees can park in designated university parking areas as specified by the university.
+2024-05-29 20:55:46,448 - INFO - Response: The Eye Care Program provides $35 for regular glasses and $40 for bifocals, with coverage extended to eligible dependents.
+2024-05-29 20:55:46,448 - INFO - 127.0.0.1 - - [29/May/2024 20:55:46] "[37mPOST /ask HTTP/1.1[0m" 200 -
+2024-05-29 20:55:46,455 - INFO - Received question: When do paychecks get issued/deposited?
+2024-05-29 20:56:19,679 - INFO - User input: When do paychecks get issued/deposited?
+2024-05-29 20:56:19,680 - INFO - Keywords: {'deposit', 'paycheck', 'issue'}
+2024-05-29 20:56:19,680 - INFO - spaCy score: 1.0, match: Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays.
+2024-05-29 20:56:19,680 - INFO - BERT score: 1.0000001192092896, match: Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays.
+2024-05-29 20:56:19,681 - INFO - RoBERTa score: 0.9999997615814209, match: Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays.
+2024-05-29 20:56:19,681 - INFO - ALBERT score: 0.9999997615814209, match: Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays.
+2024-05-29 20:56:19,681 - INFO - USE score: 1.0, match: Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays.
+2024-05-29 20:56:19,681 - INFO - Fuzzy score: 1.0, match: Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays.
+2024-05-29 20:56:19,781 - INFO - Response: Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays.
+2024-05-29 20:56:19,781 - INFO - 127.0.0.1 - - [29/May/2024 20:56:19] "[37mPOST /ask HTTP/1.1[0m" 200 -

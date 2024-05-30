@@ -5,6 +5,14 @@
             "answer": "The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost."
         },
         {
+            "question": "When do paychecks get issued/deposited?",
+            "answer": "Paychecks are issued based on the NJIT payroll calendar. Employees are paid every two weeks, on Fridays."
+        },
+        {
+            "question":"When I will get my first stipend payment?",
+            "answer": "After compeleting the necessary paperworks. you will have your first payment. Paychecks are issued based on the NJIT payroll calendar which are every two weeks, on Fridays."
+        },
+        {
             "question": "How do I file a grievance?",
             "answer": "To file a grievance, attempt to resolve the issue informally with your immediate supervisor. If not resolved within ten working days, proceed to Step 1 by presenting a written grievance to the Department Chair within forty-five calendar days of the action."
         },
@@ -33,11 +41,19 @@
             "answer": "Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year."
         },
         {
+            "question": "What is my vacation time or day or period as a Graduate Student Employees?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year."
+        },
+        {
             "question": "What are the parking fees for Graduate Student Employees?",
             "answer": "Graduate Student Employees will be charged parking fees equal to 0.4% of their salary."
         },
         {
             "question": "What support is available for professional development?",
+            "answer": "NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area."
+        },        
+        {
+            "question": "is there any fund for my professional development?",
             "answer": "NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area."
         },
         {
@@ -54,10 +70,14 @@
         },
         {
             "question": "What are the retroactive salary increases for Graduate Student Employees?",
-            "answer": "All retroactive salary increases are paid out by NJIT as follows: Postdocs’ and Graduate students’ new rates go into effect on February 16, 2024, and retroactive payments are made by March 1, 2024, for those still on payroll in another position at NJIT."
+            "answer": "All retroactive salary increases are paid out by NJIT as follows: Postdocs' and Graduate students’ new rates go into effect on February 16, 2024, and retroactive payments are made by March 1, 2024, for those still on payroll in another position at NJIT."
         },
         {
             "question": "What happens during the University's closures?",
+            "answer": "TAs and RAs should not be required to perform work during the University's closures, including between Christmas Day and New Year's Day, and Thanksgiving Day and the day after, unless emergent circumstances require it."
+        },        
+        {
+            "question": "sould TAs and RAs work during the University's closures?",
             "answer": "TAs and RAs should not be required to perform work during the University's closures, including between Christmas Day and New Year's Day, and Thanksgiving Day and the day after, unless emergent circumstances require it."
         },
         {
@@ -78,6 +98,10 @@
         },
         {
             "question": "What is the minimum stipend for Graduate Student Employees?",
+            "answer": "The minimum stipend is $34,103.30 for 2022-2023, $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026."
+        },        
+        {
+            "question": "What is the amount of Graduate Student Salary?",
             "answer": "The minimum stipend is $34,103.30 for 2022-2023, $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026."
         },
         {
@@ -179,7 +203,586 @@
         {
             "question": "What are the stipends for Research Employees?",
             "answer": "Stipends for Research Employees include $56,484 for Post-Docs, with variations for Research Scientists, Engineers, and Associates."
+        },
+        {
+            "question": "What is the expected duration of NJIT-funded assistantship support for doctoral students?",
+            "answer": "Students enrolled in doctoral degree programs may expect to receive NJIT-funded, full or partial, assistantship support for up to six (6) academic years. This is defined as twelve (12) semesters and six (6) summers."
+        },
+        {
+            "question": "What happens to funding if a GSRE member switches academic advisors?",
+            "answer": "Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT. Funding received during this time shall not be counted towards the above time constraints."
+        },
+        {
+            "question": "Can appointments be split to create multiple part-time graduate student employee positions?",
+            "answer": "Generally, appointments will not be 'split' in order to create multiple, part-time graduate student employee positions at half-time or any fraction of a full appointment, except in situations where the grant(s) or other outside funding cannot fully support a student for a full term."
+        },
+        {
+            "question": "What is NJIT's policy on minimum stipend for doctoral students supported by grant(s) or other outside funding?",
+            "answer": "NJIT doctoral students who are supported by grant(s) or other outside funding that is less than the minimum stipend, shall have the difference made up by NJIT, such that they will earn at least the minimum stipend amount."
+        },
+        {
+            "question": "What information will be included in the letter offering appointment or reappointment?",
+            "answer": "The letter offering appointment or reappointment will include the following information: Appointment title, Effective dates and duration of appointment, Hiring unit, Hiring unit contact, A summary of the nature of required duties, Salary, Health and other applicable benefits, Costs of tuition or fees that are required as a condition of employment, if any, Tuition and fee waiver or exemption information, Response requirements, if any, A statement that the position is covered by this collective agreement, The current collective agreement website address, and The address of the UCAN’s website."
+        },
+        {
+            "question": "Can the appointment letter be the basis for a grievance under Article XXIV of the Agreement?",
+            "answer": "The appointment letter is advisory and cannot be the basis for a grievance under Article XXIV of this Agreement. However, the letter may be used as evidence in a grievance based on a claim that arises independent of the letter."
+        },
+        {
+            "question": "What is the expectation of continued contractual employment for Graduate Student Employees?",
+            "answer": "Graduate Student Employees who qualify as outlined herein and in this Agreement shall have an expectation of continued contractual employment for a period of no more than six (6) academic years, subject to the availability of grant and/or University funding."
+        },
+        {
+            "question": "What happens if a Graduate Student Employee switches dissertation advisors?",
+            "answer": "In the event that a Graduate Student Employee switches dissertation advisors during their enrollment at NJIT, every effort shall be made to continue receiving funding as long as the student is in good academic standing."
+        },
+        {
+            "question": "When will Teaching Assistants and Research Assistants be notified of their status for the coming academic year?",
+            "answer": "All currently employed Teaching Assistants and Research Assistants shall be notified by the University in writing of their status for the coming academic year on or before June 1 for Fall semester appointments and December 15 for Spring semester appointments. Notification shall be either a) reappointment, or b) non-reappointment."
+        },
+        {
+            "question": "What will be included in the notification of non-reappointment?",
+            "answer": "Notification of non-reappointment shall include a written explanation of the reasons. The names of those individuals who receive notification of non-reappointment shall be forwarded to UCAN within 20 working days of the notice of non-reappointment."
+        },
+        {
+            "question": "Is the University required to reappoint Research Employees after their contract expires?",
+            "answer": "At or after the expiration of a Research Employee’s contract, the University shall not be required to reappoint the employee for another contractual term."
+        },
+        {
+            "question": "What are the conditions for the annual reappointment of Research Employees?",
+            "answer": "Annual reappointment of Research Employees is subject to the provisions of the grant award, including availability of grant funding, and also subject to effective performance in the position."
+        },
+        {
+            "question": "When will Research Employees typically be notified of their reappointment status?",
+            "answer": "Research Employees shall typically be notified in writing of their reappointment status 60 days prior to the end of their appointment period, but no later than 30 days prior to the end of their appointment period."
+        },
+        {
+            "question": "What happens if NJIT is unable to give 60 days notice to employees on visas regarding reappointment?",
+            "answer": "If NJIT is unable to give 60 days notice, it will support an application for a visa extension to the extent permitted by law, which currently is a 30-day extension, and maintain the employee on payroll for 60 days from the date of notification, or through the end of the visa extension period, whichever comes sooner."
+        },
+        {
+            "question": "What are the conditions for terminating Research Employees employed under a grant?",
+            "answer": "Research Employees who are employed under a grant may be terminated during the term of their contracts if the grant money runs out by giving them notice as soon as the University becomes aware of such lack of funding, but not less than 60 days notice."
+        },
+        {
+            "question": "What will happen to employees on visas if the University cannot provide 60 days notice of termination due to grant money running out?",
+            "answer": "For employees on visas, if NJIT is unable to give 60 days notice, it will support an application for a visa extension to the extent permitted by law, which currently is a 30-day extension, and maintain the employee on payroll for 60 days from the date of notification, or through the end of the visa extension period, whichever comes sooner."
+        },
+        {
+            "question": "What is the minimum stipend for Graduate Student Employees?",
+            "answer": "The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026."
+        },
+        {
+            "question": "How much is my monthly stipend?",
+            "answer": "The minimum stipend for Graduate Student Employees for the 2022-2023 academic year is $34,103.30, increasing to $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026."
+        },        
+        {
+            "question": "Is there a raise in stipend every year?",
+            "answer": "During 2022 to 2024, UCAN secured significant pay and benefit improvements. UCAN hopes to have raises each year at least matching inflation."
+        },
+        {
+            "question": "Can my family/dependent get health insurance too?",
+            "answer": "Yes, NJIT has set aside $150,000 to help cover uptto the %50 cost of dependent health insurance premiums. This fund will cover up to 50% of the assessed cost for dependents' health insurance. If Graduate Employees become eligible for the State Health Benefits Plan, the fund will be dissolved, and remaining funds will be returned to their original source."
+        },        
+        {
+            "question": "How do I use the health insurance at the doctor?",
+            "answer": "Please visit the health insurance website for detailed information on how to use your coverage. In case of emergency, call 911."
+        },        
+        {
+            "question": "Are Graduate Student Employees eligible for salary increases?",
+            "answer": "Graduate Student Employees are eligible for salary increases as stipulated in the agreement. Retroactive salary increases will be paid out by NJIT as follows: Postdocs’ and Graduate students’ new rates go into effect on February 16, 2024, and retroactive payments are made by March 1, 2024, for those still on payroll in another position at NJIT."
+        },
+        {
+            "question": "What happens to the salaries of Graduate Student Employees if the funding grant specifies a lower amount?",
+            "answer": "Graduate Student Employees whose salary is fully or partially funded by external grants and/or contracts shall receive a salary at or above the minimum stipend rate unless the funding grant specifically designates a lower salary amount."
+        },
+        {
+            "question": "Will Graduate Student Employees receive compensation for work beyond their appointment hours?",
+            "answer": "Graduate Student Employees shall be compensated for any work performed beyond their appointment hours at a rate proportional to their stipend."
+        },
+        {
+            "question": "What is the process for approving additional compensation for Graduate Student Employees?",
+            "answer": "The approval for additional compensation must be obtained from the respective Dean and the Office of the Provost prior to the performance of the work."
+        },
+        {
+            "question": "Are there any annual bonuses for Graduate Student Employees?",
+            "answer": "Graduate Student Employees shall receive an annual bonus as stipulated in the agreement."
+        },
+        {
+            "question": "What happens if Graduate Student Employees are required to work on holidays?",
+            "answer": "Graduate Student Employees who are required to work on holidays shall be compensated at a rate of one and one-half times their normal hourly rate."
+        },
+        {
+            "question": "How are travel expenses handled for Graduate Student Employees?",
+            "answer": "Graduate Student Employees shall be reimbursed for approved local travel expenses incurred in connection with their duties."
+        },
+        {
+            "question": "What are the vacation entitlements for Graduate Student Employees with calendar year appointments?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year."
+        },        
+        {
+            "question": "How many vacation days I get?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year."
+        },           
+        {
+            "question": "As a TA or RA, how many hours do I need to work every week?",
+            "answer": "As a full-time TA or RA, you are required to work no more than an average of eighteen (18) hours per week on specifically assigned duties related to your appointment. Weekly workload may fluctuate, but the average should not exceed 18 hours."
+        },          
+        {
+            "question": "What happens if I work more hours?",
+            "answer": "During academic year you are not allowed to work more than 18 hours."
+        },               
+        {
+            "question": "Do I need to ask professor before taking vacation?",
+            "answer": "Yes, you need to request vacation from your professor or designated supervisor in advance. Vacation should be scheduled at times that are mutually agreeable to ensure minimal disruption to the workflow."
+        },        
+        {
+            "question": "When should Graduate Student Employees with calendar year appointments take their vacations?",
+            "answer": "Graduate Student Employees with calendar year appointments should take their vacations at times mutually agreed upon with their supervisors."
+        },
+        {
+            "question": "Are Graduate Student Employees with calendar year appointments entitled to any holidays?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to the same holidays as other university employees."
+        },
+        {
+            "question": "What is the policy for sick leave for Graduate Student Employees with calendar year appointments?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to sick leave as per the university's policy applicable to other employees."
+        },
+        {
+            "question": "What happens if a Graduate Student Employee with a calendar year appointment resigns?",
+            "answer": "If a Graduate Student Employee with a calendar year appointment resigns, any unused vacation time will be paid out in accordance with university policy."
+        },
+        {
+            "question": "What is the duration of the agreement?",
+            "answer": "The agreement is effective from July 1, 2022, through June 30, 2026."
+        },
+        {
+            "question": "When does the agreement become effective?",
+            "answer": "The agreement becomes effective on July 1, 2022."
+        },
+        {
+            "question": "When does the agreement expire?",
+            "answer": "The agreement expires on June 30, 2026."
+        },
+        {
+            "question": "Is there a provision for extending the agreement?",
+            "answer": "There is no specific provision mentioned for extending the agreement beyond June 30, 2026."
+        },
+        {
+            "question": "What rights are reserved for management?",
+            "answer": "The university reserves the right to manage and direct its operations, including but not limited to, determining the methods and means of operation, establishing standards, and directing the workforce."
+        },
+        {
+            "question": "Can management change the terms of employment?",
+            "answer": "Management has the right to change the terms of employment, provided such changes are not inconsistent with the terms of the agreement."
+        },
+        {
+            "question": "Does management have the right to hire and fire employees?",
+            "answer": "Yes, management retains the right to hire, promote, transfer, assign, and retain employees, as well as to suspend, demote, discharge, or take other disciplinary action against employees."
+        },
+        {
+            "question": "What rights does the union have?",
+            "answer": "The union has the right to represent employees in negotiations and grievances, access to university facilities for meetings, and the ability to communicate with members."
+        },
+        {
+            "question": "Can the union access university facilities?",
+            "answer": "Yes, the union can access university facilities for meetings with prior approval from the university."
+        },
+        {
+            "question": "How can the union communicate with members?",
+            "answer": "The union can communicate with members through university mail systems, email, and bulletin boards designated for union use."
+        },
+        {
+            "question": "Is striking allowed under the agreement?",
+            "answer": "No, the agreement prohibits strikes, work stoppages, and slowdowns by the employees."
+        },
+        {
+            "question": "Can the university implement a lockout?",
+            "answer": "No, the university agrees not to lock out employees during the term of the agreement."
+        },
+        {
+            "question": "What happens if an employee participates in a strike?",
+            "answer": "Employees participating in a strike may face disciplinary actions up to and including termination."
+        },
+        {
+            "question": "What is the grievance procedure?",
+            "answer": "The grievance procedure involves an attempt to resolve the issue informally, followed by formal steps including presenting a written grievance to the Department Chair, escalating to the Provost, and potentially mediation or arbitration."
+        },
+        {
+            "question": "What is the first step in the grievance procedure?",
+            "answer": "The first step is to attempt to resolve the issue informally with the immediate supervisor."
+        },
+        {
+            "question": "What if the grievance is not resolved informally?",
+            "answer": "If not resolved informally, the grievance can be presented in writing to the Department Chair."
+        },
+        {
+            "question": "What is the final step in the grievance procedure?",
+            "answer": "The final step in the grievance procedure can involve mediation or arbitration if the grievance is not resolved in earlier steps."
+        },
+        {
+            "question": "What actions can lead to discipline?",
+            "answer": "Discipline can result from actions such as poor performance, misconduct, or violations of university policies."
+        },
+        {
+            "question": "What forms of discipline can be imposed?",
+            "answer": "Forms of discipline include warnings, reprimands, suspensions, demotions, and termination."
+        },
+        {
+            "question": "Can an employee appeal a disciplinary action?",
+            "answer": "Yes, an employee can appeal a disciplinary action through the grievance procedure outlined in the agreement."
+        },
+        {
+            "question": "What are the university's responsibilities regarding health and safety?",
+            "answer": "The university is responsible for providing a safe and healthy work environment in compliance with applicable laws and regulations."
+        },
+        {
+            "question": "Can employees report unsafe conditions?",
+            "answer": "Yes, employees are encouraged to report unsafe conditions to their supervisors or the university's health and safety office."
+        },
+        {
+            "question": "What should an employee do if they are injured at work?",
+            "answer": "Employees should report work-related injuries to their supervisor immediately and seek medical attention if necessary."
+        },
+        {
+            "question": "What is the tuition remission benefit for Graduate Student Employees?",
+            "answer": "Graduate Student Employees are eligible for tuition remission for courses required for their degree program."
+        },
+        {
+            "question": "Does tuition remission cover fees?",
+            "answer": "No, tuition remission does not cover fees. Graduate Student Employees are responsible for paying any associated fees."
+        },
+        {
+            "question": "Can Graduate Student Employees take courses outside their degree program with tuition remission?",
+            "answer": "No, tuition remission is only applicable to courses required for the employee's degree program."
+        },
+        {
+            "question": "What are the parking fees for Graduate Student Employees?",
+            "answer": "Graduate Student Employees will be charged parking fees equal to 0.4% of their salary."
+        },
+        {
+            "question": "Where can Graduate Student Employees park?",
+            "answer": "Graduate Student Employees can park in designated university parking areas as specified by the university."
+        },
+        {
+            "question": "Can parking fees be paid through payroll deduction?",
+            "answer": "Yes, parking fees can be paid through payroll deduction."
+        },
+        {
+            "question": "What is the Professional Development Fund?",
+            "answer": "NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members."
+        },
+        {
+            "question": "What activities are covered by the Professional Development Fund?",
+            "answer": "The Professional Development Fund can be used for conferences, workshops, trainings, and research projects related to the GSRE member's research area."
+        },
+        {
+            "question": "How can GSRE members apply for the Professional Development Fund?",
+            "answer": "GSRE members can apply for the Professional Development Fund through their department or the university's professional development office."
+        },
+        {
+            "question": "What is the maximum workload for Teaching Assistants and Research Assistants?",
+            "answer": "Teaching Assistants and Research Assistants are required to work no more than an average of 18 hours per week on specifically assigned duties."
+        },
+        {
+            "question": "Can workload vary from week to week?",
+            "answer": "Yes, weekly fluctuations above and below the 18-hour average are expected, but no TA or RA will be instructed to work more total hours for the term of appointment than stipulated."
+        },
+        {
+            "question": "What should a GSRE member do if they believe their workload exceeds the maximum limit?",
+            "answer": "GSRE members should report concerns about excessive workload to their supervisor or the university's human resources department."
+        },
+        {
+            "question": "What other benefits are available to GSRE members?",
+            "answer": "Other benefits include health insurance, tuition remission, professional development funds, and parking privileges."
+        },
+        {
+            "question": "Are GSRE members entitled to retirement benefits?",
+            "answer": "GSRE members may be eligible for certain retirement benefits as specified by the university's policy."
+        },
+        {
+            "question": "Can GSRE members participate in university recreational facilities?",
+            "answer": "Yes, GSRE members have access to university recreational facilities as per university policy."
+        },
+        {
+            "question": "What is the process for disciplining a Research Employee?",
+            "answer": "Discipline for Research Employees shall be imposed only for just cause. Disciplinary actions include oral reprimands, written reprimands, suspensions, and termination."
+        },
+        {
+            "question": "Can a Research Employee be terminated without prior disciplinary action?",
+            "answer": "No, except in cases of serious misconduct, termination should follow progressive discipline."
+        },
+        {
+            "question": "What should a Research Employee do if they believe the discipline is unfair?",
+            "answer": "A Research Employee may file a grievance if they believe the discipline imposed is unfair."
+        },
+        {
+            "question": "What should an employee do if they identify a health and safety hazard?",
+            "answer": "Employees should report health and safety hazards to their supervisor or the University's Environmental Health and Safety Office immediately."
+        },
+        {
+            "question": "Are there health and safety training programs available?",
+            "answer": "Yes, the university provides health and safety training programs to ensure a safe work environment."
+        },
+        {
+            "question": "What happens if a provision of the agreement is found to be invalid?",
+            "answer": "If any provision of this Agreement is found to be invalid by a court of competent jurisdiction, the remaining provisions shall continue in full force and effect."
+        },
+        {
+            "question": "Can the invalid provision be renegotiated?",
+            "answer": "Yes, the parties will meet to negotiate a valid substitute provision."
+        },
+        {
+            "question": "Does this Agreement contain all the terms agreed upon by the parties?",
+            "answer": "Yes, this Agreement contains all the terms agreed upon by the parties. There are no other agreements or understandings between the parties."
+        },
+        {
+            "question": "Can this Agreement be modified?",
+            "answer": "This Agreement can only be modified through a written amendment signed by both parties."
+        },
+        {
+            "question": "What is the Union Security clause?",
+            "answer": "The Union Security clause requires all employees covered by the Agreement to either join the union or pay a representation fee."
+        },
+        {
+            "question": "How is the representation fee determined?",
+            "answer": "The representation fee is determined by the union and is a percentage of the regular dues."
+        },
+        {
+            "question": "Can employees opt-out of paying the representation fee?",
+            "answer": "Employees can only opt-out if they are not part of the bargaining unit."
+        },
+        {
+            "question": "What is the purpose of the Labor-Management Committee?",
+            "answer": "The Labor-Management Committee discusses issues of mutual concern, including those not covered by the Agreement."
+        },
+        {
+            "question": "How often does the Labor-Management Committee meet?",
+            "answer": "The Committee meets at least twice per semester or as otherwise agreed by the parties."
+        },
+        {
+            "question": "Does the Agreement include an anti-discrimination clause?",
+            "answer": "Yes, the Agreement prohibits discrimination based on race, color, religion, sex, national origin, age, disability, marital status, sexual orientation, gender identity, or veteran status."
+        },
+        {
+            "question": "What should an employee do if they experience discrimination?",
+            "answer": "Employees should report incidents of discrimination to their supervisor or the University's Office of Equal Opportunity and Affirmative Action."
+        },
+        {
+            "question": "What types of leave are available?",
+            "answer": "Types of leave include sick leave, family leave, military leave, bereavement leave, and leave for jury duty."
+        },
+        {
+            "question": "How is sick leave accrued?",
+            "answer": "Sick leave is accrued at the rate of one day per month of employment."
+        },
+        {
+            "question": "Can employees take leave for family-related reasons?",
+            "answer": "employees can take family leave as per the Family and Medical Leave Act (FMLA) and New Jersey Family Leave Act."
+        },
+        {
+            "question": "Are there provisions for remote work?",
+            "answer": "Remote work provisions are not specifically addressed in the Agreement."
+        },        
+        {
+            "question": "Can I choose when to work my hours?",
+            "answer": "We strongly suggest that you coordinate your work hours with your professor or advisor to ensure that your schedule aligns with the needs of your duties and responsibilities."
+        },        
+        {
+            "question": "How are amendments to the Agreement made?",
+            "answer": "Amendments must be in writing and signed by both parties."
+        },        
+        {
+            "question": "What do I have to do as a Teaching Assistant?",
+            "answer": "The department will assign and inform you of your responsibilities as a TA."
+        },           
+        {
+            "question": "Can I change my job duties?",
+            "answer": "If you are a TA, you should coordinate with your department to work according to their requirements and assignments. If you are an RA, you should confirm any changes with your advisor."
+        },          
+        {
+            "question": "What if I don't understand my job duties?",
+            "answer": "If you don't understand your job duties, you should ask for clarification from your supervisor or professor. It's important to ensure you fully understand your responsibilities."
+        },                      
+        {
+            "question": "Can I live on campus?",
+            "answer": "Once you have been admitted to NJIT, you can complete the Housing Application. Applications for first-year students received by May 1 are guaranteed on-campus housing."
+        },        
+        {
+            "question": "Can I get money for going to conferences?",
+            "answer": "NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area."
+        },        
+        {
+            "question": "What happens if there is a conflict between the Agreement and University policies?",
+            "answer": "In case of a conflict, the terms of the Agreement prevail."
+        },
+        {
+            "question": "Who signs the Agreement on behalf of the University?",
+            "answer": "The Agreement is signed by authorized representatives of the University."
+        },
+        {
+            "question": "Who signs the Agreement on behalf of the union?",
+            "answer": "The Agreement is signed by authorized representatives of the union."
+        },
+        {
+            "question": "What health benefits do I get as a Graduate Student Employee?",
+            "answer": "The University will fully cover Student Health Insurance premiums for single coverage of the Graduate Student Employees. Dependents can enroll in non-reimbursable healthcare coverage offered through the existing NJIT plan at additional cost."
+        },
+        {
+            "question": "What steps should I take to file a grievance?",
+            "answer": "To file a grievance, attempt to resolve the issue informally with your immediate supervisor. If not resolved within ten working days, proceed to Step 1 by presenting a written grievance to the Department Chair within forty-five calendar days of the action."
+        },
+        {
+            "question": "How long can I receive assistantship support as a doctoral student?",
+            "answer": "Doctoral students may receive NJIT-funded assistantship support for up to six academic years."
+        },
+        {
+            "question": "What happens to my funding if I switch academic advisors?",
+            "answer": "Continued funding is guaranteed if a GSRE member switches academic advisors during their enrollment at NJIT."
+        },
+        {
+            "question": "What is the minimum stipend for Graduate Student Employees in different academic years?",
+            "answer": "The minimum stipend is $34,103.30 for 2022-2023, $35,758.80 for 2023-2024, $39,342.76 for 2024-2025, and $46,000.00 for 2025-2026."
+        },
+        {
+            "question": "What information is included in appointment and reappointment letters?",
+            "answer": "Appointment and reappointment letters include details such as appointment title, effective dates, duration, hiring unit, summary of required duties, salary, health benefits, and any costs of tuition or fees."
+        },
+        {
+            "question": "How many vacation days do Research Employees get per year?",
+            "answer": "Research Employees are entitled to fifteen vacation days per fiscal year after 30 days from the date of hire."
+        },
+        {
+            "question": "How many vacation days do Graduate Student Employees get annually?",
+            "answer": "Graduate Student Employees with calendar year appointments are entitled to four weeks of vacation per year."
+        },
+        {
+            "question": "How much are the parking fees for Graduate Student Employees?",
+            "answer": "Graduate Student Employees will be charged parking fees equal to 0.4% of their salary."
+        },
+        {
+            "question": "What is the Professional Development Fund, and how can I use it?",
+            "answer": "NJIT will provide a Professional Development Fund of $50,000 for each academic year to promote the professional development of GSRE members. Funds are approved for conferences, workshops, trainings, and research projects related to the GSRE member's research area."
+        },
+        {
+            "question": "What are the work hours for Teaching Assistants and Research Assistants?",
+            "answer": "Teaching Assistants and Research Assistants are required to work no more than an average of 18 hours per week on assigned duties."
+        },
+        {
+            "question": "How does the grievance resolution process work?",
+            "answer": "The grievance process involves attempting to resolve the issue informally first, followed by formal steps: Step 1 with the Department Chair, Step 2 with the Provost, and potentially mediation or arbitration if necessary."
+        },
+        {
+            "question": "What health benefits are available for Research Employees?",
+            "answer": "Research Employees are covered by the State Health Benefits Program and continue paying health plan premiums during any leave."
+        },
+        {
+            "question": "When are retroactive salary increases paid to Graduate Student Employees?",
+            "answer": "Retroactive salary increases are paid out by NJIT, with new rates effective February 16, 2024, and retroactive payments by March 1, 2024."
+        },
+        {
+            "question": "Do TAs and RAs need to work during university closures?",
+            "answer": "TAs and RAs should not be required to work during the University's closures, unless emergent circumstances require it."
+        },
+        {
+            "question": "How do I get reimbursement for travel expenses?",
+            "answer": "Graduate Student Employees shall be reimbursed for approved local travel expenses incurred in connection with their duties."
+        },
+        {
+            "question": "Can I share on-campus housing with my spouse or partner?",
+            "answer": "Graduate Students in studio apartment-style on-campus housing may share housing with their spouse/domestic partner."
+        },
+        {
+            "question": "What are the parking fees for Research Employees?",
+            "answer": "Research Employees' parking fees are 0.4% of their annual salary, deducted in 24 installments throughout the fiscal year."
+        },
+        {
+            "question": "What happens if my grant funding runs out?",
+            "answer": "Research Employees may be terminated if grant funding runs out, with at least 60 days' notice."
+        },
+        {
+            "question": "What is the probationary period for new Research Employees?",
+            "answer": "Newly hired Research Employees serve a three-month probationary period."
+        },
+        {
+            "question": "What does the Eye Care Program cover for Research Employees?",
+            "answer": "The Eye Care Program provides $35 for regular glasses and $40 for bifocals, with coverage extended to eligible dependents."
+        },
+        {
+            "question": "Can Graduate Student Employees request a modified duties schedule for health reasons?",
+            "answer": "Graduate Student Employees with a serious health condition may request a modified duties schedule for up to one semester."
+        },
+        {
+            "question": "What is the process for resolving grievances?",
+            "answer": "Grievance process includes attempting informal resolution, followed by Steps 1 to 4: Department Chair, Provost, Mediation, and Arbitration."
+        },
+        {
+            "question": "What is the minimum salary for Research Employees?",
+            "answer": "Minimum salary for Research Employees is based on NIH NSRA approved stipend levels."
+        },
+        {
+            "question": "What types of statutory leaves are available?",
+            "answer": "Leaves of absence are available for serious health conditions, family care, and under the New Jersey SAFE Act, among other applicable laws."
+        },
+        {
+            "question": "What is the duration of calendar year appointments for TAs and RAs?",
+            "answer": "Calendar year appointments for TAs and RAs are from July 1 to June 30, inclusive of one month's equivalent for vacation."
+        },
+        {
+            "question": "How are layoffs or reductions in force handled?",
+            "answer": "NJIT must notify UCAN and affected employees at least 60 days in advance for any layoff or reduction in force."
+        },
+        {
+            "question": "What are the responsibilities of UCAN representatives?",
+            "answer": "UCAN representatives can transact official business on NJIT property and have the right to use NJIT buildings for meetings, following NJIT procedures."
+        },
+        {
+            "question": "When are reappointment notifications given to TAs and RAs?",
+            "answer": "TAs and RAs are notified of their status for the coming academic year by June 1 for Fall and December 15 for Spring."
+        },
+        {
+            "question": "What are the stipends for Research Employees like Post-Docs?",
+            "answer": "Stipends for Research Employees include $56,484 for Post-Docs, with variations for Research Scientists, Engineers, and Associates."
+        },
+        {
+            "question": "What is the duration of NJIT-funded assistantship support for doctoral students?",
+            "answer": "Students enrolled in doctoral degree programs may expect to receive NJIT-funded, full or partial, assistantship support for up to six academic years."
+        },
+        {
+            "question": "Will my funding continue if I switch academic advisors at NJIT?",
+            "answer": "Continued funding shall be guaranteed in the event of a GSRE member switching academic advisors during their enrollment at NJIT."
+        },
+        {
+            "question": "Can appointments be split to create part-time positions?",
+            "answer": "Generally, appointments will not be 'split' to create multiple part-time positions, except when grant funding cannot fully support a student for a full term."
+        },
+        {
+            "question": "What is NJIT's policy on minimum stipends for doctoral students with grant funding?",
+            "answer": "NJIT doctoral students with grant funding that is less than the minimum stipend will have the difference made up by NJIT to meet the minimum stipend amount."
+        },
+        {
+            "question": "What information is included in appointment letters?",
+            "answer": "Appointment letters include details such as title, effective dates, duration, hiring unit, duties, salary, health benefits, tuition or fees, and collective agreement information."
+        },
+        {
+            "question": "Can the appointment letter be the basis for a grievance?",
+            "answer": "The appointment letter is advisory and cannot be the basis for a grievance, but it can be used as evidence in a grievance based on an independent claim."
+        },
+        {
+            "question": "What is the expectation of continued employment for Graduate Student Employees?",
+            "answer": "Graduate Student Employees have an expectation of continued employment for up to six academic years, subject to the availability of funding."
+        },
+        {
+            "question": "What happens if a Graduate Student Employee switches dissertation advisors?",
+            "answer": "Efforts will be made to continue funding if a Graduate Student Employee switches dissertation advisors and remains in good academic standing."
+        },
+        {
+            "question":"When are TAs and RAs notified about their status for the coming academic year?",
+            "answer": "TAs and RAs are notified by June 1 for Fall and December 15 for Spring about their status for the coming academic year."
+        },
+        {
+            "question": "What information is included in a notification of non-reappointment?",
+            "answer": "Non-reappointment notifications include written explanations and are forwarded to UCAN within 20 working days."
         }
-        
     ]
 }

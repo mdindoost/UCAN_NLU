@@ -1,0 +1,6 @@
+spacy
+transformers
+torch
+scikit-learn
+tensorflow_hub
+Flask
